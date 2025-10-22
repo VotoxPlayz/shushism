@@ -3,20 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Of Shushism - Chapter 1: Pilot</title>
+    <title>Book Of Shushism</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="data.js"></script>
+    <script defer src="script.js"></script>
+    
     <style>
-        /* Custom scrollbar for a sleek look in dark mode */
-        body::-webkit-scrollbar {
-            width: 8px;
-        }
-        body::-webkit-scrollbar-track {
-            background: #1f2937; /* Darker track */
-        }
+        /* (Your CSS scrollbar styles remain here) */
+        body::-webkit-scrollbar { width: 8px; }
+        body::-webkit-scrollbar-track { background: #1f2937; }
         body::-webkit-scrollbar-thumb {
-            background-color: #4b5563; /* Medium grey thumb */
+            background-color: #4b5563;
             border-radius: 20px;
-            border: 2px solid #111827; /* Matches body background */
+            border: 2px solid #111827;
         }
     </style>
 </head>
@@ -24,8 +23,8 @@
 
     <header class="text-center mb-8">
         <h1 class="text-4xl sm:text-5xl font-extrabold text-white tracking-tight">Book Of Shushism</h1>
-        <p class="text-xl sm:text-2xl font-light mt-2 text-gray-400">Chapter 1: Pilot</p>
-        <p class="text-md sm:text-lg font-mono text-gray-500 mt-1">Page 1:1</p>
+        <p id="chapter-title" class="text-xl sm:text-2xl font-light mt-2 text-gray-400">Loading Chapter...</p>
+        <p id="page-id" class="text-md sm:text-lg font-mono text-gray-500 mt-1">Loading Page...</p>
     </header>
 
     <main class="flex-grow flex items-start justify-center">
@@ -38,14 +37,8 @@
             </button>
 
             <div class="flex-grow bg-gray-800 border border-gray-700 shadow-2xl p-6 sm:p-10 rounded-lg max-w-4xl mx-auto transition-all duration-500">
-                <div class="text-lg leading-relaxed space-y-6 text-justify">
-                    <p class="font-semibold text-xl text-indigo-400">*Line Goes Here*</p>
-
-                    <p>The silence in the bunker was not the quiet of peace, but the compressed absence of sound that precedes a great rupture. It hummed, a low, persistent frequency that only the most highly attuned sensors could detect, a vibration beneath the floor plates that felt more like a memory than a physical force. Elara traced a line of condensation on the viewport, the glass a thick, distorting lens on the dead, amber landscape outside.</p>
-
-                    <p>For three cycles, the only company had been the drone of the life-support system and the ghost of her own breath. She had meticulously cataloged the remains of the old world—a collection of data shards, a rusted compass, and a single, petrified rose. Each item was a weighted stone in the hollow of her hand, a reminder of the 'Shushism' that had descended not as a bang, but as a slow, creeping erosion of everything loud, everything vibrant, everything true.</p>
-
-                    <p>The mandate was simple: Observe. Record. Wait. But observation had turned into obsession, and waiting had become a form of slow decay. She knew the moment had come not because the sirens sang—they were long dead—but because the internal chronometer, which had been steadfastly ticking down for a thousand days, abruptly flashed a static '00:00:00'. The door mechanism, sealed by layers of quantum foam and industrial resin, gave a shuddering, metallic moan, and the first whisper of external air began to leak in, carrying with it the scent of dust and impossible things.</p>
+                <div id="book-content" class="text-lg leading-relaxed space-y-6 text-justify">
+                    <p>Loading book content...</p>
                 </div>
             </div>
 
@@ -66,28 +59,5 @@
             <svg class="w-6 h-6 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
         </button>
     </footer>
-<script>
-    // Placeholder function for navigation logic
-    function navigatePage(direction) {
-        // In a real application, you would change the content and page number here.
-        // For example, you might fetch the next chapter's content via an API call
-        // or a local array/JSON structure.
-
-        if (direction === 'next') {
-            console.log("Navigating to the NEXT page...");
-            // Logic to update Page 1:1 to Page 1:2
-        } else if (direction === 'prev') {
-            console.log("Navigating to the PREVIOUS page...");
-            // Logic to update Page 1:1 to Page 1:0 (or Chapter 0:Last)
-        }
-        alert("This is a placeholder button! Implement page logic here.");
-    }
-
-    // Attach the function to the navigation buttons
-    document.querySelectorAll('button[aria-label]').forEach(button => {
-        const direction = button.getAttribute('aria-label').includes('Next') ? 'next' : 'prev';
-        button.addEventListener('click', () => navigatePage(direction));
-    });
-</script>
 </body>
 </html>
