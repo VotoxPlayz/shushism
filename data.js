@@ -6,57 +6,57 @@ const BOOK_DATA = [
         pages: [
             // Page 1:1
             `
-                <p class="font-semibold text-xl text-indigo-400">1</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 1</p>
                 <p>1 - At the start of the universe Shush created the word "shush" and the colour "yellow".</p>
             `,
             // Page 1:2
             `
-                <p class="font-semibold text-xl text-indigo-400">2</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 2</p>
                 <p>2 - Shush then created space, making stars and galaxies</p>
             `,
 
              `
-                <p class="font-semibold text-xl text-indigo-400">3</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 3</p>
                 <p>3- The first day, shush made the death of stars called "supernova".</p>
             `,
 
              `
-                <p class="font-semibold text-xl text-indigo-400">4</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 4</p>
                 <p>4- 13.8 Billion years later, Shush destroyed the universe in the "big bang"</p>
             `,
 
               `
-                <p class="font-semibold text-xl text-indigo-400">5</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 5</p>
                 <p>5- The big bang caused a new universe to grow rapidly.</p>
             `,
 
              `
-                <p class="font-semibold text-xl text-indigo-400">6</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 6</p>
                 <p>6- Shush saw that the universe expanding was good, he then created the solar system.</p>
             `,
 
             `
-                <p class="font-semibold text-xl text-indigo-400">7</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 7</p>
                 <p>7- He created 11 planets called, "Sun, Mercury, Penus, Earth, Moon, Mars, Saturn, Youranus, Pluto and Eris".</p>
             `,
 
             `
-                <p class="font-semibold text-xl text-indigo-400">8</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 8</p>
                 <p>8- Shush made Sun hot and Moon cold.</p>
             `,
 
             `
-                <p class="font-semibold text-xl text-indigo-400">9</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 9</p>
                 <p>9- Shush then made earth habitable.</p>
             `,
 
             `
-                <p class="font-semibold text-xl text-indigo-400">10</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 10</p>
                 <p>10 - Shush made a shiny object called 'The Emblem Of Shush'</p>
             `,
 
              `
-                <p class="font-semibold text-xl text-indigo-400">11</p>
+                <p class="font-semibold text-xl text-indigo-400">Page 11</p>
                 <p>11 - Shush took out his emblem of Shush from his pocket, which he gave to everything that he created. Even the planet Earth had the emblem of Shush hidden inside it.</p>
             `,
         ]
