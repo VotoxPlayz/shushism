@@ -354,5 +354,345 @@ const BOOK_DATA = [
         
             
         ]
+    },
+
+     {
+        title: "Rupee",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Rupee: Part I</p>
+              <p>1- Shush then overheard a conversation a pajeetistinian had with an asian.</p>
+                <p>2- They were arguing which one of them was actually asian.</p>
+                <p>3- They asked shush to confirm which one was asian.</p>
+                <p>4- Shush responded, "The yellows are asain", "The browns are located in asia, but arent asian".</p>
+                <p>5- The pajeetistinian and asian were confused, they didn't known if they were really asian.</p>
+                <p>6- The next day, shush noticed that again the pajeetistinians were calling themselves asian.</p>
+                <p>7- Shush knew that the pajeetistinians were not asain so he had to do something about this.</p>
+                <p>8- Shush then made the 4 commondments, for the brown asains to follow so that this woldn't happen again.</p>
+                <p>9- 1. Red dot on forehead to signify stupidness in the brain, 2. Cloth on head to hide the non-existing brain, 3. Must bathe in curry every night to make there brown skin even browner, 4. The only music they are allowed to listen to is "bangalangalangalanga" and they MUST listen to it twice a day, on full volume on a speaker while doing the hand shaking dance.</p>
+                <p>10- The pajeetistinians were not very fond of this neither did they have any idea what would happen if one of these people broke the rules.</p>
+                <p>11- When one of the pajeestinians would break these rules, every pajeetistinian would have to suffer the consequence, shush called this "rupeenization"</p>
+                <p>12- Rupeenization would happen to all pajeetistinians when one would break a rule, these things would happen 1. The pajeetistinians would speak in a language no one else understood, it was called "bangalang", 2. The pajeetistinians would have to use a currency called rupee, it was valued at only 1.8% of actual currency so this made them very poor. and 3. Every time a pajeetistinian would break a rule, India would move 2.718 Kilometers away from asia, eventually a new continent would form. and 4. The pajeestinian who broke the rule would be publicly executed in 4K.</p>
+        
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "Niggers",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Niggers: Part I</p>
+              <p>1- Shush is immortal because he hasn't died yet</p>
+                <p>2- The reason shush doesn't want to test this, is because he feels pain.</p>
+                <p>3- It would hurt to jump off a bridge.</p>
+                <p>4- Shush doesn't like hurt.</p>
+                <p>5- when shush gets hurt, he says specifically "breowh what the fuckkkk?"</p>
+                <p>6- When shush says this its loud, shush needs to shush.</p>
+                <p>7- A pajeetistinian then slapped shush, shush said "breowweh what he fuckk?" and then eliminated all pajeetistinians off of asia</p>
+                <p>8- Shush then went to check up on Earth 2, to see how the africanistinians were doing.</p>
+                <p>9- The africanistinians were swinging on trees and eating bananas</p>
+                <p>10- Shush noticed that all the stores were completely empty</p>
+                <p>11- Shush yelled "THULAAAAA" to all the africanistians, they all understood because it was in xhosa</p>
+                <p>12- The africanistinians were not listening, rather they were all talking in xhosa and were worshipping a god</p>
+            `,
+            `
+                <p class="font-semibold text-xl text-indigo-400">Niggers: Part II</p>
+                <p>13- Shush found this funny and listened in to what they were saying</p>
+                <p>14- shush heard them say "oogadoogadoobooganoogasooga nigger doo"</p>
+                <p>15- they all said "thank you Quetzalcoatl for life"</p>
+                <p>16- Shush wondered who is Quetzalcoatl was</p>
+                <p>17- the youngest africanistinian "nhydgur" threw a basketball at shush's eyes.</p>
+                <p>18- shush said "berowhh what the fuckKKK?"</p>
+                <p>19- when shush opened his eyes, he could barely see!</p>
+                <p>20- this was later called "the yellows' curse" and every yellow skinned since that point has had slightly worse eyesight.</p>
+                <p>21- shush then stole nhydgur's weenie leaf, he started crying.</p>
+                <p>22- nhydgurs parents "coon" and "khan" were very mad at shush, they said "clehcluuhclockklahkleh quetzelcoatl clehkloh cluh"</p>
+                <p>23- shush still wondered who quetzelcoatl was.</p>
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+     {
+        title: "Brown",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Brown: Part I</p>
+                <p>1- Shush then went to check up back on the indians for earth 1</p>
+                <p>2- shush forgot that he eliminated them all and brought them back just as how they were</p>
+                <p>3- he noticed that the indians were breaking the rules that he set</p>
+                <p>4- all the indians ripped off the red dot on there heads. Shush didnt like this</p>
+                <p>5- al lthe indians took off the cloth on there head. Shush didnt like this</p>
+                <p>6- all the indians did not bathe in curry. Shush didnt like this</p>
+                <p>7- all the indians listened to kanye west and not bangalangalanglanga. Shush didnt like this</p>
+                <p>8- Shush was furious and when all the indians heard the line "breoww what the fuckkk?" all the indians ran away.</p>
+            
+            `,
+            `
+                <p class="font-semibold text-xl text-indigo-400">Brown: Part II</p>
+               <p>9- They all scattered, shush didnt know which one to go for!</p>
+                <p>10- one of the indians tripped on a rupee coin</p>
+                <p>11- his mouth fell onto another rupee coin</p>
+                <p>12- he swallowed the rupee coin</p>
+                <p>13- shush noticed this and started banging on the back of the tripped indians head</p>
+                <p>14- the indian ran away and bit the rupee</p>
+                <p15- the indian was in severe pain, this was called the "browns' curse" and any indian since that point would have to use rupee and would have a red dot on there forehead because of the harsh fall, there skin is also brown because of the dirt that they fell on.></p>
+                <p>16- Shush didnt know where the other indians were, this was then called "migration" as all the indians migrated to other places to hide from shush.</p>
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "Black",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Black: Part I</p>
+                <p>1- Shush then went back to earth 2 to see what the blacks were doing</p>
+                <p>2- all the blacks were running around, shush said "shushhh!"</p>
+                <p>3- none of the blacks shushed</p>
+                <p>4- shush then teleported all the blacks infront of him in a straight line</p>
+                <p>5- shush then punched there foreheads all in one go</p>
+                <p>6- this was called "the blacks' curse" the result of this made the blacks very dumb because they had no brain and there heads were slanted because of the lack of brain</p>
+                <p>7- all the blacks went "euh?"</p>
+                <p>8- the blacks all devolved back into monkeys</p>
+                <p>9- shush saw this and smiled</p>
+                <p>10- the blacks were all swinging on trees going oogadoogadoo</p>
+            
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "White",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">White: Part I</p>
+                <p>1- Shush then checked up on the whites to see what they were colonising now</p>
+                <p>2- Shush noticed that the whites had been defeated</p>
+                <p>3- The mexicanistanionians won against the whites after 12 years.</p>
+                <p>4- Shush saw this and were very mad at the whites for had they lost</p>
+                <p>5- Shush thought since they were dumb for that, they shall be dumb for eternity</p>
+                <p>6- shush then got a bucket of piss and dipped every white's hair into that bucket</p>
+                <p>7- this made all the whites hair yellow, this was a symbol for being bland</p>
+                <p>8- shush made the bucket of piss have "idiosyncratic" which made anyone who touched it dumb.</p>
+                <p>9- this was called "the whites' curse" and any white since that point was dumb, any white that had yellow hair was even more dumber.</p>
+    
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "Andromeda",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Andromeda: Part I</p>
+              <p>1 - Shush wanted to explore other planets as well, seeing what else there could be.</p>
+                <p>2 - Shush finally decided to overcome his fear and visit the Andro galaxy.</p>
+                <p>3 - Upon arrival Shush noticed something very unique.</p>
+                <p>4 - Shush could hear black people sniggering about.</p>
+                <p>5 - Upon closer inspection, Shush heard a very recognisable robot voice.</p>
+                <p>6 - Shush finally put two and two together.</p>
+                <p>7 - The Andro galaxy was the galaxy of Stephen Hawk Tuah's Time Travel Party!</p>
+                <p>8 - Shush decided to construct a flux capacitator.</p>
+                <p>9 - Shush then made the first Time Travel machine.</p>
+                <p>10 - He saw this is a form of 'media' and decided to call the galaxy the Andromedia galaxy.</p>
+                <p>11 - Since shush didn't want this to be associated with black people, he removed the 'i' from Andromedia, so that there were no black people saying 'I created the andromedia galaxy, that's why there is an I in it'.</p>
+                <p>12 - The galaxy was called the Andromeda Galaxy, and was set to crash into the Milk Galaxy.</p>
+    
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+      {
+        title: "Month",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Month: Part I</p>
+              <p>1 - Shush then time travelled back in time to when he banished the first nigger to Stephen Hawk Tuah's Time Travel Party.</p>
+                <p>2 - Then he went into Stephen Hawk Tuah's Party and saw Stephen Hawk Tuah sniggering about.</p>
+                <p>3 - 'beep boop beep beep' - Said Stephen Hawk Tuah</p>
+                <p>4 - Shush then punched Stephen Hawk Tuah in the face, so that the Nigger wouldn't do it for him.</p>
+                <p>5 - The Nigger then punched Shush in the face, and shush said 'Brouehhh, what the fuckkk???'</p>
+                <p>6 - Everybody on Earth 1 heard Shush and was frightened, and decided to flee to Home.</p>
+                <p>7 - Although since all the Niggers were illiterate, they misread 'GO TO HOME NOW!! SHUSH IS COMING' as 'GO TO ROME NOW!!! SHUSH IS CUMMING'.</p>
+                <p>8 - All the niggers then decided to make their own empire called the 'Roman Empire.'</p>
+                <p>9 - It took them a lot of years, but Rome was finally created.</p>
+                <p>10 - A white person named 'Augustus' saw what the niggers had done, then he killed them all and stole credit for the creation.</p>
+                <p>11 - Shush was amazed at what Augustus had created in such a short time.</p>
+                <p>12 - Shush was so amazed that he invented a unit of time called 'months' which were about 30 days each, and named a month after Augustus, called August.</p>
+                <p>13 - The months of the year were: Milember, Bilember, Trilember, Quattorember, Quinember, Sexember, Septenember, August, October, November, December, Undecember, and Duodecember.</p>
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+     {
+        title: "Aussie Man Titties",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Aussie Man Titties: Part I</p>
+           <p>1 - Shush then saw a mysterious figure slowly descending from the clouds.</p>
+                <p>2 - A nigger said 'The sus?'. Shush misheard this for 'jee sus' and just shortened it to 'Jesus'</p>
+                <p>3 - 'Hello all, my name is Jesus. But some may know me as Quetzcoatl, I am the son of God' shush was furious when he heard this, Shush did not have a son at all!</p>
+                <p>4 - 'As you all may know, the planet Uranus was not created by Shush, no no no, I actually made it.' Shush has never been more angry</p>
+                <p>5 - 'I made it spin vertically to show that I, Jesus, can lift you up, while Shush will only make you go in circles'.</p>
+                <p>6 - Everybody turned on Shush and started a riot against him, throwing tomatoes and bread at Shush.</p>
+                <p>7 - Shush stood there with his mouth extremely wide open.</p>
+                <p>8 - Then, Jesus put a sour patch kid in Shush's mouth.</p>
+                <p>9 - Shush started instinctively chewing on it, subconsciously.</p>
+                <p>10 - Everybody was running around breaking Shush's rules.</p>
+                <p>11 - People got apples and were eating them like that DIRECTLY in front of Shush.</p>
+                <p>12 - To make things worse, Jesus put all the people on Earth 2 on Earth 1.</p>
+                <p>13 - Jesus renamed Earth 2 to heaven, a place you would go to after death.</p>
+                <p>14 - Shush's empire and goals had completely collapsed, everybody who ever trusted Shush hated themselves for it.</p.
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "Finale",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Finale: Part I</p>
+           <p>1 - Shush was extremely annoyed and sad.</p>
+                <p>2 - Shush's curses were reversed, white people were not as stupid, black people were not as feared, brown people didn't smell as bad, and yellows could see.</p>
+                <p>3 - Shush took out his emblem of Shush from his pocket, and kissed it one last time. Knowing it might be the last time he ever has owned something.</p>
+                <p>4 - Jesus then created a massive ocean and was walking across it to get to Shush.</p>
+                <p>5 - The humans were amazed at how a human could walk across water.</p>
+                <p>6 - Although the humans were mistaken, Jesus was not a human. He was God. He was more powerful than Shush.</p>
+                <p>7 - Shush's head was spinning, it felt like his entire universe had fallen. Jesus named this 'Year 0' to symbolise the start of a better world.</p>
+                <p>8 - Everybody reached into their anus's and took out there Emblem Of Shush, showing that they no longer belonged to Shush.</p>
+                <p>9 - Shush was still very confused as to how someone was more powerful than him, and to how Jesus even came?</p>
+                <p>10 - Jesus floated up into the air and tried to punish Shush!</p>
+                <p>11 - A massive fight began, Shush was grabbing laptops and hitting people with them.</p>
+                <p>12 - Jesus was furious and began mass tapping everybody to heal them.</p>
+                <p>13 - Shush finally broke down crying, his entire empire was lost.</p>
+                <p>14 - Shush invented a new object called a 'Gun' with one press of a button, you can kill either yourself or someone else.</p>
+            
+            `,
+             `
+                <p class="font-semibold text-xl text-indigo-400">Finale: Part II</p>
+          <p>15 - Shush then pointed the gun at Jesus, everybody was frightened except for Jesus.</p>
+                <p>16 - 'Shush, I promise you this isn't the right thing to do' Jesus calmly said to Shush.</p>
+                <p>17 - Shush further came to Jesus and pointed it right to his forehead, the tension was causing the hot air to rise and the cool air to sink, Shush called this Vagina Infection.</p>
+                <p>18 - A nigger misheard him saying 'vection' and someone said it would be a con if Jesus died, so shush called this 'Convection.'</p>
+            
+            `,
+
+         `
+                <p class="font-semibold text-xl text-indigo-400">Finale: Part III</p>
+         <p>19 - Then with no hesitation Shush pulls the trigger, *BAM!*</p>
+                <p>20 - To his surprise, Jesus was not dead, but instead, Jesus had rigged the gun to shoot backwards.</p>
+                <p>21 - Shush had accidentally shot himself in the head, and fell over while bleeding to death.</p>
+                <p>22 - He coughed up blood a couple times.</p>
+                <p>23 - Shush said to Jesus 'Will I go to heaven?'</p>
+                <p>24 - Jesus said nothing.</p>
+                <p>25 - Shush said to everybody in a straining voice 'Please save me, I don't want to die! Im sorry for what I did'</p>
+                <p>26 - Nobody helped Shush, everybody hated Shush.</p>
+                <p>27 - Jesus began healing everybody, making sure no one would remember the trauma they had to go through from Shush.</p>
+                <p>28 - Shush stared up into the clouds, that were once his.</p>
+                <p>29 - Lying on the ground that was once his.</p>
+                <p>30 - Near a tree that was once his.</p>
+                <p>31 - Breathing in his last breath of air, that was once his.</p>
+            
+            `,
+            
+              `
+                <p class="font-semibold text-xl text-indigo-400">Finale: Part IV</p>
+      <p>32 - Jesus assured everyone that everything would be okay.</p>
+                <p>33 - Jesus absorbed Shush's powers right as he was about to die, although this did not do much for Jesus, who was already more powerful than Shush.</p>
+                <p>34 - Shush being close to death was something most people celebrated, while others were frightened at the scene.</p>
+                <p>35 - Shush used every bit of his strength to look down.</p>
+            
+            `,
+
+              `
+                <p class="font-semibold text-xl text-indigo-400">Finale: Part V</p>
+      <p>36 - On his chest he sees a small shiny object.</p>
+                <p>37 - Shush wondered what it was for a second.</p>
+                <p>38 - Shush tried as hard as he could to read it.</p>
+                <p>39 - Shush finally could read it.</p>
+            
+            `,
+
+            `
+                <p class="font-semibold text-xl text-indigo-400">The Final Verse of the Final Chapter, Finale: Part VI</p>
+      <p>40 - 'Jesus's Emblem Of Shush'. Shush then bled out to death, dying by his own creation he swore he never made.</p>
+              
+            
+            `,
+
+    
+        
+            
+        ]
+    },
+
+    {
+        title: "Credits",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Credits: Part I</p>
+           <p>1 - Thank you for reading the book of Shushism!</p>
+            <p>2 - Inspired by the Bible</p>
+            <p>3 - Everything in this book is PURELY fictional, and is not meant to be taken to heart.</p>
+            <p>4 - No racist or religious jokes are intended, this book is made for entertainment only.</p>
+            <p>5 - For Shush, 2010-2025 R.I.P</p>
+               
+            
+            `,
+
+    
+        
+            
+        ]
     }
 ];
