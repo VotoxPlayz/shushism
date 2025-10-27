@@ -188,6 +188,171 @@ const BOOK_DATA = [
             `,
             
         ]
+    },
+
+     {
+        title: "Planet",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Planet: Part I</p>
+                <p>1- Shush created the other 9 Planets of the solar system, Mercury, Penus, Moon, Mars, Jupiter, Saturn, Youranus, Pluto and Eris.</p>
+                <p>2- The Humans all saw lights of different colour in the sky, they associated beige with Jupiter and Saturn.</p>
+                <p>3- All the humans except for the yellows were seeing the beauty of the night sky, seeing 10 colours.</p>
+                <p>4- Shush was sad that the yellows couldn't see the night sky as he felt that he was apart of the yellows.</p>
+                <p>5- Shush then individually went to the 3 yellow people and opened up there eyes, this allowed them to see.</p>
+                <p>6- The Yellows were amazed that they could see the night sky and made a groundbreaking discovery.</p>
+                <p>7- The yellows noticed another light that was dark blue and very far away.</p>
+                <p>8- Shush saw this and flew too it, seeing that it was a whole new planet that was spinning vertically.</p>
+                <p>9- Shush saw this and wondered how it got here when he never made it.</p>
+                <p>10- Shush allowed it and called the new planet "Nevertune" because he never tuned it into reality.</p>
+                <p>11- The yellows saw this and didn't like the name, they urged Shush to change it into "Neptune" because it sounded better.</p>
+                <p>12- Shush decides to see what the big bang also created.</p>
+                <p>13- Shush flies out of Earth, and continues until he sees a swirl of blue and purple from where he just came from.</p>
+               
+            
+            `,
+              `
+                <p class="font-semibold text-xl text-indigo-400">Planet: Part II</p>
+                <p>14- Shush saw white in the cluster and called it "Milk".</p>
+                <p>15- Shush looked to the right and saw another "cluster" that looked similar to Milk but looked different.</p>
+                <p>16- Shush saw that the other cluster was moving very slowly to Milk, saying that it could collide within a couple billion years.</p>
+                <p>17- Shush saw lots of these clusters as he moved away and decided to name them "Galaxy" because they were galactic.</p>
+                <p>18- Shush then converted all the Humans on his planet from the language mandarin into a new language he made called "Shushian".</p>
+                <p>19- Shushian worked the same as English, only with a different name.</p>
+                <p>20- Shush continued going further and further out until he got out of everything and saw a giant green-orange ball.</p>
+                <p>21- Shush called this giant ball the "verse" as it held other galaxies and potential other lifeform.</p>
+                <p>22- The Browns urged him to change it to the "uni-verse" as uni meant 1 since there was only 1 - verse.</p>
+                <p>23- Shush did as they said and called it the universe.</p>
+                <p>24- Shush decided to explore other galaxies, seeing if there was any life on there.</p>
+                <p>25- Shush first went to the galaxy he found first, he called it the "And-ro" galaxy because he found it after the galaxy he made earth in.</p>
+                <p>26- Shush then returned to Earth and never did that again.</p>
+               
+               
+            `,
+            
+        ]
+    },
+
+    {
+        title: "Indians",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Indians: Part I</p>
+                <p>1- The population of Earth was 3 for each continent, Shush had 6 Continents.</p>
+                <p>2- Shush didn't know how to work out how much people were on his Earth.</p>
+                <p>3- Shush urged the browns to come up with a solution so that they would become useful.</p>
+                <p>4- The browns thought and thought until they came up with something called "math".</p>
+                <p>5- Math was the language of numbers and had a solution for figuring out problems like this.</p>
+                <p>6- The browns showed there knowledge of numbers to shush and he was blown away.</p>
+                <p>7- The browns used a 10 base system, zero, one, two, three, four, five, six, seven, eight, nine and then ten spelt out as one zero.</p>
+                <p>8- Shush then asked how to solve 3 for 6, and the browns obliged introducing him to "multiplication".</p>
+                <p>9- The browns showed that 3 multiplied by 6 was 6+6+6.</p>
+                <p>10- Shush then saw the connection, there were 3 6's so 6+6+6.</p>
+                <p>11- The browns explained that to work it out, you add 6 onto 6, the browns did and got a result of 18.</p>
+                <p>12- Shush then called the browns "Indian" because they IN-vented math which blew him away to where he nearly di-ed.</p>
+            `,
+        
+            
+        ]
+    },
+
+     {
+        title: "Rules",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Rules: Part I</p>
+                <p>1- Shush noticed that the africanistans were starting to steal.</p>
+                <p>2- Shush saw the africanistans were taking grass from other people to cover their weenies and pusses.</p>
+                <p>3- Shush didn't like this because the africanistans should've been grateful that they have dirt.</p>
+                <p>4- Shush then set out 7.5 Rules for the africanistans to follow so that this wouldnt happen again.</p>
+                <p>5- Shush strictly said that if any africanistan broke these rules then they would go to stephen hawk tuah's time travel party.</p>
+                <p>6- Shush strictly said that if anyone else broke these rules then they would become black.</p>
+                <p>7- Black was now known as the skin colour of bad and it shall be feared.</p>
+                <p>8- Shush carved the 7.5 rules in the grass below him</p>
+            `,
+
+            `
+                <p class="font-semibold text-xl text-indigo-400">Rules: Part II</p>
+               <p>9- 1. Don't eat apple slices like that.</p>
+                <p>10- 2. Stop making those noises.</p>
+                <p>11- 2.5. (People will think there is something wrong with you).</p>
+                <p>12- 3. SHUSH!!</p>
+                <p>13- 4. Christopher Columbus Must Columbus Christopher.</p>
+                <p>14- 5. Respectfully stop speaking.</p>
+                <p>15- 6. People born in 2011 were born 24 hours prior to any given time.</p>
+                <p>16- 7. Kanye west is chinese.</p>
+                <p>17- Shush enforced that everyone must follow these rules.</p>
+            `,
+        
+            
+        ]
+    },
+
+    {
+        title: "Africans",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Africans: Part I</p>
+               <p>1- the minute that the new rules were invented, the africanistans immediatly starting acting up.</p>
+                <p>2- Oogaboogadoo, the youngest africanistan started being loud and didnt respectfully stop speaking.</p>
+                <p>3- Shush noticed this and banished oogaboogadoo to stephen hawk tuahs time travel party.</p>
+                <p>4- When oogaboogadoo went to stephen hawk tuahs time travel party, stephen hawk tuah said "beep boop boop beep beep".</p>
+                <p>5- Oogaboogadoo noticed that stephen hawk tuah could not speak and took this to his advantage.</p>
+                <p>6- oogaboogadoo began wrecking havoc on his time travel party, breaking decorations and being obnoxiously loud.</p>
+                <p>7- Oogaboogadoo then KILLED Stephen hawk tuah and broke his chair.</p>
+                <p>8- All the africanistans saw this and then began breaking ALL the rules shush set out since if they couldn't be banished to stephen hawk tuahs time travel party.</p>
+                <p>9- They started by grabbing apple slices AND eating them like that.</p>
+                <p>10- They then were making those noises.</p>
+        
+            `,
+
+            `
+                <p class="font-semibold text-xl text-indigo-400">Africans: Part II</p>
+               <p>11- People then thought there was something wrong with the africanistans.</p>
+                <p>12- The africanistans then were being loud and were not shushing.</p>
+                <p>13- The africanistans then columbus christophered NOT Christopher Colombus.</p>
+                <p>14- The africanistans then did NOT stop respectfully stop speaking.</p>
+                <p>15- The africanistans were calling all the 2011's 2011's NOT yesterday borns.</p>
+                <p>16- The africanistans made Kanye West africanistan.</p>
+                <p>17- Shush then made a copy of earth but more drier, hotter, arid and full of stores with no security.</p>
+                <p>18- Shush then slingshotted each africanistan one by one onto this new earth, this process took 256 days as there was 4096 of them and Shush slingshotted 16 every day.</p>
+                <p>19- After 256 days, all the africanistans were on Earth 2.</p>
+                <p>20- Shush started focusing on Earth 1 and let the africanistans live on Earth 2.</p>
+                
+            `,
+        
+            
+        ]
+    },
+
+     {
+        title: "Cannons",
+        pages: [
+            // Page 2:1
+            `
+                <p class="font-semibold text-xl text-indigo-400">Cannons: Part I</p>
+              <p>1- When Shush was observing Earth 1 he noticed that all the gunlands and whitelandians were trying to take control over continents.</p>
+                <p>2- Shush then didn't do anything to the whitelands, he said that if the people are getting beaten then they should just fight back.</p>
+                <p>3- Oceanisia was captured by the whites, Africanistan was captured by the whites.</p>
+                <p>4- Africanistans land was taken by the whites.</p>
+                <p>5- The brown asains were taken by the whites.</p>
+                <p>6- The yellow asains were not taken by the whites, they fought back.</p>
+                <p>7- Everyone except for the yellows was taken by the whites.</p>
+                <p>8- The yellows then came up with a plan to shoot balls at the whites.</p>
+                <p>9- They called the machine "Cannonballs" because it would be a canon event when they needed to shoot at the whites.</p>
+                <p>10- The second day, the whites tried to take over Yellowasia again, this time they were not prepared for what the yellows had planned.</p>
+                <p>11- The yellows shot 7280 cannonballs at the whites, the whites idk maybe died.</p>
+                <p>12- The whites never targeted the yellows again.</p>
+        
+            `,
+
+    
+        
+            
+        ]
     }
-   
 ];
