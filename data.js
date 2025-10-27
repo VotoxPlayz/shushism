@@ -8,6 +8,7 @@ const BOOK_DATA = [
             `
                 <p class="font-semibold text-xl text-indigo-400">Page 1</p>
                 <p>1 - At the start of the universe Shush created the word "shush" and the colour "yellow".</p>
+                <p>2 - Shush then created space, making stars and galaxies</p>
             `,
             // Page 1:2
             `
