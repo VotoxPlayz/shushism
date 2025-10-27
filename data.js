@@ -448,7 +448,7 @@ const BOOK_DATA = [
                 <p>12- he swallowed the rupee coin</p>
                 <p>13- shush noticed this and started banging on the back of the tripped indians head</p>
                 <p>14- the indian ran away and bit the rupee</p>
-                <p15- the indian was in severe pain, this was called the "browns' curse" and any indian since that point would have to use rupee and would have a red dot on there forehead because of the harsh fall, there skin is also brown because of the dirt that they fell on.></p>
+                <p>15- the indian was in severe pain, this was called the "browns' curse" and any indian since that point would have to use rupee and would have a red dot on there forehead because of the harsh fall, there skin is also brown because of the dirt that they fell on.</p>
                 <p>16- Shush didnt know where the other indians were, this was then called "migration" as all the indians migrated to other places to hide from shush.</p>
             
             `,
